@@ -22,6 +22,7 @@ Write Terraform code that configures the GitHub repository according to the foll
 - [ ] If it is a core feature, I have added thorough tests
 - [ ] Do we need to implement analytics?
 - [ ] Will this be part of a product update? If yes, please write one phrase about this update
+      
 
 5. A deploy key named `DEPLOY_KEY` should be added to the repository.
 
